@@ -1,4 +1,5 @@
 💫 Hi 👋What's Up?
+
 I'm Elvis Osei Bonsu 👋<br><br>Frontend Developer passionate about building modern, responsive, and interactive web experiences. I enjoy creating polished user interfaces, smooth animations, and high-quality applications that feel professional and engaging. Currently improving my skills in JavaScript, React, UI/UX, and advanced frontend development with the goal of becoming a high-end frontend developer.<br><br>## 🚀 About Me<br><br>* 💻 Passionate about frontend development and modern web technologies<br>* ⚛️ Learning and building with React and modern JavaScript<br>* 🎨 Interested in clean UI, animations, and responsive design<br>* 🚀 Focused on creating high-quality and interactive web applications<br>* 🧠 Constantly exploring new technologies and improving my skills<br>* 🔥 Fun fact: I keep pushing forward no matter how difficult the challenge gets<br>
 
 
